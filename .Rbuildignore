@@ -19,3 +19,5 @@
 ^\.httr-oauth$
 ^LICENSE\.md$
 ^.vscode$
+^AGENTS\.md$
+^CLAUDE\.md$
